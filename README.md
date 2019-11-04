@@ -1,3 +1,9 @@
+# Most popular websites
+  * [official website](https://www.rust-lang.org/zh-CN/)
+  * [rust 中文](https://kaisery.github.io/trpl-zh-cn/foreword.html)
+  * [rust github](https://github.com/rust-lang)
+
+
 # Awesome Rust
   Note:本项目由 [Rust中文社区](http://www.rust.cc) 发起和运作，最初翻译[kud1ing](https://github.com/kud1ing/awesome-rust)创建的awesome-rust
 
